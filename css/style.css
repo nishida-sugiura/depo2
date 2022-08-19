@@ -216,6 +216,12 @@ margin-top: 0vw;
 }
 
 
+input[type=checkbox] {
+	transform: scale(2);
+	margin: 0 6px 0 0;
+}
+
+
 
 
 
