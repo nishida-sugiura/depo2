@@ -235,7 +235,8 @@ cb2 {
   position: relative;
   width: 100px;
   height: 26px;
-  
+   text-align: center;
+font-size: 5vw;
 }
 
 
