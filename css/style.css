@@ -227,7 +227,7 @@ margin-left: 2vw;
 
 input[type=checkbox] {
 	transform: scale(4);
-	margin: 6px 6px 6vw 21vw;
+	margin: 0px 3px 0vw 0vw;
 
 }
 
@@ -236,7 +236,7 @@ cb2 {
   position: relative;
   width: 100px;
   height: 26px;
-
+margin-left: 3vw;
 font-size: 5vw;
 }
 
