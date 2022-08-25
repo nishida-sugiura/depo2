@@ -233,13 +233,11 @@ input[type=checkbox] {
 
 
 cb2 {
-  position: relative;
-  width: 100px;
-  height: 26px;
-margin-left: 30vw;
-font-size: 3vw;
-margin-left: 2vw;
-text-align: center;
+ color: black;
+ text-align: center;
+font-size: 2vw;
+margin-bottom: 1vw;
+margin-top: 1vw;
 }
 
 
