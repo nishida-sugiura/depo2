@@ -26,7 +26,7 @@ $(function () {
      
 
 
-       msg = ["serial code【" + s_code +"】を送信しました。"] ;
+       msg = ["serial code【" + s_code +"】送信"] ;
 
         
         
