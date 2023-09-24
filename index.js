@@ -26,7 +26,7 @@ $(function () {
      
 
 
-       msg = ["serial code：" + s_code] ;　 //トークに送信する内容
+       msg = ["code：" + s_code] ;　 //トークに送信する内容
 
         
         
