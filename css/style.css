@@ -373,3 +373,34 @@ font-size: 5vw;
 
 
 
+/* ココポイント用コード入力input内テキスト中央寄せ */
+.code {
+  text-align: center;
+  
+}
+
+/* プレイスホルダーの文字を中央に */
+.code::placeholder {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
