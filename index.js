@@ -35,7 +35,33 @@ $(function () {
         return false;
         
     });
-});
+}
+ 
+ 
+
+
+/* 
+   * liff.sendMessages()
+   * Botにメッセージを送信する
+   */
+  document.getElementById('sendstatusbutton').addEventListener('click', function () {
+    liff.sendMessages([
+      {
+        type: 'text',
+        text: "今のポイント"
+      }
+    ]).then(function () {
+      window.alert("Message sent");
+    }).catch(function (error) {
+      window.alert("Error sending message: " + error);
+    });
+  });
+
+
+  
+ 
+ 
+ );
 
 
 
