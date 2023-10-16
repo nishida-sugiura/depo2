@@ -397,7 +397,9 @@ font-size: 5vw;
 
 
 
-
+p span{
+	border: solid 1px #454545;
+}
 
 
 
