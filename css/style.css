@@ -407,14 +407,53 @@ p span{
 
 
 /* 文字を枠で囲む */
+.box-simple1{
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid #ffaacc;
+  border-radius: 15px;  
+}
+.box-simple1 p {
+  margin: 0;
+  padding: 0;
+}
+.box-simple2{
+  margin: 1em;
+  padding: 1em;
+  border: 2px dashed #ffcc99; 
+}
+.box-simple2 p {
+  margin: 0;
+  padding: 0;
+}
+.box-simple3 {
+  margin: 1em;
+  padding: 1em;
+  border: 5px dotted #aaffcc; 
+}
+.box-simple3 p {
+  margin: 0;
+  padding: 0;
+}
+.box-simple4 {
+  margin: 1em;
+  padding: 1em;
+  border: 5px double #ccddff;
+  border-radius: 10px;  
+}
+.box-simple4 p {
+  margin: 0;
+  padding: 0;
+}
 .box-simple5 {
   margin: 1em;
   padding: 1em;
   background: #efdeff;
 }
-
-
-
+.box-simple5 p {
+  margin: 0;
+  padding: 0;
+}
 
 
 
