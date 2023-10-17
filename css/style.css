@@ -406,8 +406,12 @@ p span{
 
 
 
-
-
+/* 文字を枠で囲む */
+.box-simple5 {
+  margin: 1em;
+  padding: 1em;
+  background: #efdeff;
+}
 
 
 
