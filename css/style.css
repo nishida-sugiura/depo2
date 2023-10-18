@@ -396,9 +396,17 @@ font-size: 5vw;
 
 
 
+.resizeimage img { width: 20%; }
+
+
+
+
+
+
 p span{
 	border: solid 1px #454545;
 }
+
 
 
 
