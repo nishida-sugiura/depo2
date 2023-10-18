@@ -19,7 +19,7 @@ function sendText(msg) {
 document.addEventListener("DOMContentLoaded", function () {
     // LIFFの初期化
     liff.init({
-        liffId: "2001059289-X2m74PYZ" // 自分のLIFF IDに置き換えてください
+        liffId: "1657198553-M8zND8nk" // 自分のLIFF IDに置き換えてください
     }).then(() => {
         // LIFFの初期化が成功したら
         initializeApp();
